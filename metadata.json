@@ -1,0 +1,5 @@
+{
+  "name": "TileMap Architect",
+  "description": "A professional 2D side-scrolling map tile generation tool with vector graphics support and PNG export.",
+  "requestFramePermissions": []
+}
